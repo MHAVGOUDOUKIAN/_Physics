@@ -1,0 +1,16 @@
+    /*m_timeElapsed += deltaTime.asSeconds();
+
+    if(m_vit.y >0) {
+        m_vit.y = m_vit.y -g*m_timeElapsed; 
+        m_pos.y = -0.5*g*m_timeElapsed*m_timeElapsed + m_vit.y * m_timeElapsed;
+    }
+    else
+    {
+        m_vit.y = 0;
+    }
+
+    m_pos.x = m_vit.x * m_timeElapsed;
+
+    m_circle.setPosition(m_pos.x,m_pos.y);
+
+    std::cout << m_pos.x << " " << m_pos.y << " " << m_timeElapsed << std::endl;*/
